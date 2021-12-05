@@ -13,11 +13,11 @@ import random
 import telebot
 
 
-BOT_TOKEN = '1910773191:AAFXjLzXfjbOK1VnGqmaz6ea37noZCsURtc'
+BOT_TOKEN = '5073535896:AAFuerUFNktlRW330GWMHHrA6cie5ljRJXs'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 updater = Updater(
-    "1910773191:AAFXjLzXfjbOK1VnGqmaz6ea37noZCsURtc", use_context=True)
+    "5073535896:AAFuerUFNktlRW330GWMHHrA6cie5ljRJXs", use_context=True)
 dispatcher = updater.dispatcher
 
 
